@@ -1,2 +1,2 @@
-1.	ubuntu下Shadowsocks服务端配置和使用.png  
+1.	ubuntu涓婼hadowsocks鏈嶅姟绔厤缃拰浣跨敤.png  
 	link:  http://weibo.com/p/23041867de9c540102vadx?pids=Pl_Official_CardMixFeed__4&feed_filter=1
